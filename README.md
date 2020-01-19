@@ -10,3 +10,5 @@ The solution for this issue involves the following:
 1. A product centric configuration that outlines the requirements for that product, ie receiptSentTo: accountOwner, deliverySlipSentTo: accountOwner, royaltyTeam
 2. Action based functions that are called based on the product at submission time, ie sendReceipt, sendDeliverySlip, upgradeSubscription
 3. Create all basic functionality that allows the system to perform basic tasks that are required during submission and transactions, ie sendEmail, updateAccount, requireUserConfirmation
+
+For reference you can take a look at the Product-List xml file in the working directory of this repository as an example of how the system would be setup.
