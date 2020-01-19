@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productList>
+  <product>
+      <name>Learning to Ski</name>
+      <price>$12.99</price>
+      <description>
+        This book teaches users how to Ski, while also teaching them about first aid practises
+      </description>
+      <productType>physical</productType>
+      <receiptSentTo>accountOwner, royaltyTeam</receiptSentTo>
+  </product>
+
+  <product>
+      <name>How to meditate</name>
+      <price>$18.99</price>
+      <description>
+        This book teaches users how to Meditate and explaining the benefits of meditation
+      </description>
+      <productType>digital</productType>
+      <receiptSentTo>accountOwner</receiptSentTo>
+  </product>
+
+  <product>
+      <name>How to be less busy</name>
+      <price>$0.50</price>
+      <description>
+        This book is the highlight of the series, were we show you how to be less busy and make the most out of your time
+      </description>
+      <productType>digital</productType>
+      <receiptSentTo>accountOwner</receiptSentTo>
+  </product>
+
+
+</productList>
